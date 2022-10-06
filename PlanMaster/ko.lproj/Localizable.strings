@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PlanMaster
+
+  Created by Jenny Kim on 5/4/22.
+  jkim4020@usc.edu
+*/
+
+
+"YOURE_HERE" = "현위치";
+"DESTINATION" = "목적지";
+"TRANSPORTATION" = "교통수단";
+"MYSELF" = "혼자";
+"NOTE" = "알림";
+"MESSAGE" = "아이콘은 한 글자 이내로 작성되어야 합니다.";
+"OK" = "확인";
+"UIMENU_TITLE" = "일정 추가";
+"MSG_BODY" = "같이 가자 ";

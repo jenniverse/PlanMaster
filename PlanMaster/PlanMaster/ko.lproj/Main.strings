@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "From"; ObjectID = "27i-6h-Kg1"; */
+"27i-6h-Kg1.text" = "출발지";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "2qn-PD-naJ"; */
+"2qn-PD-naJ.text" = "날짜";
+
+/* Class = "UILabel"; text = "Latitude:"; ObjectID = "6Bm-GP-oP4"; */
+"6Bm-GP-oP4.text" = "위도:";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "BlI-my-SfT"; */
+"BlI-my-SfT.title" = "지도";
+
+/* Class = "UILabel"; text = "⛳️Destination"; ObjectID = "C59-zX-gnx"; */
+"C59-zX-gnx.text" = "⛳️목적지";
+
+/* Class = "UILabel"; text = "Longitude:"; ObjectID = "C5a-Tx-my4"; */
+"C5a-Tx-my4.text" = "경도:";
+
+/* Class = "UILabel"; text = "destination"; ObjectID = "CsN-bh-HN5"; */
+"CsN-bh-HN5.text" = "목적지";
+
+/* Class = "UIButton"; configuration.title = "Search Destination"; ObjectID = "HX5-AR-G5j"; */
+"HX5-AR-G5j.configuration.title" = "목적지 검색";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HX5-AR-G5j"; */
+"HX5-AR-G5j.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "☻"; ObjectID = "ITy-Dj-sYp"; */
+"ITy-Dj-sYp.placeholder" = "☻";
+
+/* Class = "UITextField"; placeholder = "Destination"; ObjectID = "Mu8-ri-ZMQ"; */
+"Mu8-ri-ZMQ.placeholder" = "목적지";
+
+/* Class = "UINavigationItem"; title = "New Plan"; ObjectID = "Mw1-1e-SG3"; */
+"Mw1-1e-SG3.title" = "새 일정";
+
+/* Class = "UITextField"; placeholder = "Make a new plan!"; ObjectID = "Ok0-NE-bvf"; */
+"Ok0-NE-bvf.placeholder" = "새 일정을 입력하세요.";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "Q6E-9j-kNa"; */
+"Q6E-9j-kNa.title" = "취소";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "ROa-Tb-vSS"; */
+"ROa-Tb-vSS.title" = "편집";
+
+/* Class = "UINavigationItem"; title = "Transportation"; ObjectID = "Vqs-2J-S5D"; */
+"Vqs-2J-S5D.title" = "교통수단";
+
+/* Class = "UILabel"; text = "transportation"; ObjectID = "aK4-4s-1K1"; */
+"aK4-4s-1K1.text" = "교통수단";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "apf-yj-bVI"; */
+"apf-yj-bVI.title" = "저장";
+
+/* Class = "UILabel"; text = "With"; ObjectID = "ben-lZ-hvn"; */
+"ben-lZ-hvn.text" = "동행";
+
+/* Class = "UINavigationItem"; title = "Plans"; ObjectID = "k7C-45-xvw"; */
+"k7C-45-xvw.title" = "일정";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "lZC-X6-30D"; */
+"lZC-X6-30D.text" = "목적지";
+
+/* Class = "UILabel"; text = "⏰Time"; ObjectID = "msC-RY-dE8"; */
+"msC-RY-dE8.text" = "⏰시간";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "mzP-wL-G6j"; */
+"mzP-wL-G6j.title" = "취소";
+
+/* Class = "UINavigationItem"; title = "Name of Plan"; ObjectID = "p8N-gk-9Gl"; */
+"p8N-gk-9Gl.title" = "일정 제목";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "paC-xb-XbK"; */
+"paC-xb-XbK.text" = "이름";
+
+/* Class = "UILabel"; text = "from to"; ObjectID = "qVe-Uc-l8Z"; */
+"qVe-Uc-l8Z.text" = "출발지 도착지";
+
+/* Class = "UITextField"; placeholder = "Myself"; ObjectID = "qVw-S0-ejt"; */
+"qVw-S0-ejt.placeholder" = "혼자";
+
+/* Class = "UITextField"; placeholder = "Start"; ObjectID = "t1G-iW-pTl"; */
+"t1G-iW-pTl.placeholder" = "출발지";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "u7P-pB-gdj"; */
+"u7P-pB-gdj.title" = "저장";
+
+/* Class = "UILabel"; text = "Map is unavailable since this is a customized destination."; ObjectID = "uoh-Vy-mBB"; */
+"uoh-Vy-mBB.text" = "직접 입력한 목적지는 지도에 보여지지 않습니다.";
+
+/* Class = "UITextField"; placeholder = "Customize"; ObjectID = "vEM-lo-x5p"; */
+"vEM-lo-x5p.placeholder" = "직접 입력";
+
+/* Class = "UILabel"; text = "Customized destinations will not be shown on the map."; ObjectID = "vV6-fd-Wha"; */
+"vV6-fd-Wha.text" = "직접 입력한 목적지는 지도에 보여지지 않습니다.";
+
+/* Class = "UINavigationItem"; title = "Destination"; ObjectID = "vg9-zg-Nd0"; */
+"vg9-zg-Nd0.title" = "목적지";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "x4Z-xU-Zzt"; */
+"x4Z-xU-Zzt.title" = "Item";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "yp5-Le-aPq"; */
+"yp5-Le-aPq.text" = "제목";

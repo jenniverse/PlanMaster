@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  PlanMaster
+
+  Created by Jenny Kim on 5/4/22.
+  jkim4020@usc.edu
+*/
+
+"YOURE_HERE" = "You're here";
+"DESTINATION" = "Destination";
+"TRANSPORTATION" = "Transportation";
+"MYSELF" = "Myself";
+"NOTE" = "Note";
+"MESSAGE" = "Icon should be an emoji or a letter";
+"OK" = "Ok";
+"UIMENU_TITLE" = "Add a plan";
+"MSG_BODY" = "Let's go to ";
